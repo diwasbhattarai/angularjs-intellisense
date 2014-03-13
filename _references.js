@@ -1,5 +1,6 @@
 /// <reference path="../source/lib/assetBundle.js" />
 /// <reference path="_moduleDecorator.js" />
+/// <reference path="../source/app/<module declaration files>" />
 /// <reference path="_componentDecorator.js" />
 /// <reference path="../source/app/appBundle.js" />
 
